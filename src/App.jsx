@@ -310,7 +310,7 @@ function App() {
                 </p>
                 <p>
                   I have a Diploma in Information Technology and practical experience
-                  across Web and Backed development, enterprise HR systems and data annotation
+                  across Web and Backend development, enterprise HR systems and data annotation
                   for AI model training. I enjoy turning ideas into clean, useful
                   and responsive software.
                 </p>
